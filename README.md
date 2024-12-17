@@ -17,9 +17,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alsmhahmed/](https://www.linkedin.com/in/alsmhahmed/)
 
-
-[![Twitter URL](https://img.shields.io/static/v1?color=blue&label=Twitter%20&logo=x&logoColor=white&style=flat&message=Follow)](https://twitter.com/alsmhahmed)
-[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=flat&message=Connect)](https://www.linkedin.com/in/alsmhahmed)
 [![MailL](https://img.shields.io/static/v1?color=blue&label=Gmail%20&logo=gmail&logoColor=white&style=flat&message=ReachME)](mailto:alsmh.ahmed@gmail.com)
 
 <h3>My Stats:</h3>
@@ -30,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alsmhahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alsmhahmed" height="30" width="40" /></a>
+<a href="https://x.com/alsmhahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alsmhahmed" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alsmhahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alsmhahmed" height="30" width="40" /></a>
 <a href="https://fb.com/alsmhahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alsmhahmed" height="30" width="40" /></a>
 <a href="https://www.behance.net/alsmhahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alsmhahmed" height="30" width="40" /></a>
