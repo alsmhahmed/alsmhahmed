@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alsmh</h1>
-<h4>As a software engineer with a passion for continuous learning, I’m currently pursuing a pre-master's degree in Computer Science at Cairo University.
-  My journey in tech includes two years as a teaching assistant in computer science and one year as a UI/UX designer, where I honed my skills in both instruction and design.    </h4>
-  <h4> Now, I'm leveraging my diverse experience as an iOS engineer at Generation C, where I focus on developing impactful mobile solutions.</h4>
+<h4>iOS Engineer with hands-on experience delivering impactful, user-centric mobile applications at Generation C. I specialize in Swift, SwiftUI, and modular architecture, with a strong focus on performance, scalability, and maintainability.</h4>
+  <h4>Previously, I worked as a UI/UX designer and a computer science teaching assistant, which strengthened my ability to design intuitive user experiences and communicate technical concepts effectively.</h4>
+   <h4>Currently pursuing a pre-master’s degree in Computer Science at Cairo University, I’m committed to continuous learning and staying at the forefront of mobile innovation.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alsmhahmed&label=Profile%20views&color=0e75b6&style=flat" alt="alsmhahmed" /> </p>
 
